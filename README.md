@@ -12,11 +12,11 @@ The project utilizes the `housing.csv` dataset, encompassing various features li
 - **Visualization**: In-depth visualization to reveal data patterns and insights.
 
 ## Visualizations
-![Plot1](link-to-plot1)  
-*Description of Plot 1*
+![Plot1](california_plot.png)  
+*California Plot*
 
-![Plot2](link-to-plot2)  
-*Description of Plot 2*
+![Plot2](hist_median_house_vale.png)  
+*Hist of Median House Value*
 
 ## Code
 The repository includes Python scripts and Jupyter notebooks detailing the entire process, from initial data cleaning to final predictions.
@@ -26,14 +26,12 @@ The repository includes Python scripts and Jupyter notebooks detailing the entir
 2. Install required dependencies.
 3. Run the Jupyter notebooks for a step-by-step walkthrough.
 
-## Contributions
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
 
 ## Author
-- **Your Name**
+- **Fadi Ayoub**
 
 ## License
-This project is [MIT licensed](link-to-license).
+This project is [MIT licensed](https://www.udemy.com/course/the-pandas-bootcamp/).
 
 ## Acknowledgements
 - Mention any collaborators, data sources, or inspirations.
